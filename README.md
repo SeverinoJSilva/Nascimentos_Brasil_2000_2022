@@ -109,7 +109,7 @@ As Colunas possuem os seguintes dados:
 | 7      | ANO          | Informa o ano de nascimento da criança.                                           |
 | 8      | Q900         | Informa se o CID Q90.0 (Síndrome de Down, trissomia do 21, por não disjunção meiótica), foi identificada na criança. |
 | 9      | Q901         | Informa se o CID Q90.1 (Síndrome de Down, trissomia do 21, mosaicismo por não disjunção mitótica), foi identificada na criança. |
-| 10     | Q902         | Informa se o CID Q90.1 (Síndrome de Down, trissomia 21, translocação), foi identificada na criança. |
+| 10     | Q902         | Informa se o CID Q90.2 (Síndrome de Down, trissomia 21, translocação), foi identificada na criança. |
 | 11     | Q909         | Informa se o CID Q90.9 (Síndrome de Down, não específica), foi identificada na criança. |
 | 12     | QT_DOWN      | Informa a quantidade de anomalias relacionadas a Síndrome de Down foram identificadas. |
 | 13     | IDFD_DOWN    | Identifica se a criação foi diagnosticada com Síndrome de Down.                   |
